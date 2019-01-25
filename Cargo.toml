@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Pete Gadomski <pete.gadomski@gmail.com>"]
 edition = "2018"
 
-[dependencies]
+[build-dependencies]
+bindgen = "0.47"
