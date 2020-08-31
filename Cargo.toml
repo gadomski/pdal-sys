@@ -5,4 +5,4 @@ authors = ["Pete Gadomski <pete.gadomski@gmail.com>"]
 edition = "2018"
 
 [build-dependencies]
-bindgen = "0.47"
+bindgen = "0.55"
